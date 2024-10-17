@@ -28,7 +28,7 @@ This project processes employee salary data and allows users to retrieve details
 
 ## Requirements
 
-**Jupyter Notebook
-**R 4.4.1
+1. Jupyter Notebook
+2. R 4.4.1
 
 
